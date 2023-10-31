@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE address SYSTEM "FA6VDV_orarend.dtd">
+<orarend> 
+    <ora id="101" tipus="elmélet">
+    		<targy>Mesterséges inteligencia alapok</targy>
+			<idopont>
+				<nap>2023.09.15</nap>
+				<tol>12:30</tol>
+				<ig>15:50</ig>
+			</idopont>
+			<helyszin>In/114</helyszin>
+			<oktato>Kunné Dr. Tamás Judit</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="102" tipus="elmélet">
+    		<targy>Mesterséges inteligencia alapok</targy>
+			<idopont>
+				<nap>2023.09.15</nap>
+				<tol>16:00</tol>
+				<ig>19:20</ig>
+			</idopont>
+			<helyszin>In/114</helyszin>
+			<oktato>Kunné Dr. Tamás Judit</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="103" tipus="elmélet">
+    		<targy>Web technológiák 1.</targy>
+			<idopont>
+				<nap>2023.09.16</nap>
+				<tol>8:30</tol>
+				<ig>15:10</ig>
+			</idopont>
+			<helyszin>In/101</helyszin>
+			<oktato>Dr.Agárdi Anita</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="104" tipus="elmélet">
+    		<targy>Szoftvertesztelés</targy>
+			<idopont>
+				<nap>2023.09.22</nap>
+				<tol>12:30</tol>
+				<ig>15:50</ig>
+			</idopont>
+			<helyszin>In/101</helyszin>
+			<oktato>Tompa Tamás</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="105" tipus="elmélet">
+    		<targy>Web-es alkalmazások (Java)</targy>
+			<idopont>
+				<nap>2023.09.22</nap>
+				<tol>16:00</tol>
+				<ig>19:20</ig>
+			</idopont>
+			<helyszin>In/101</helyszin>
+			<oktato>Kunné Dr. Tamás Judit</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="106" tipus="gyakorlat">
+    		<targy>Web-es alkalmazások (Java)</targy>
+			<idopont>
+				<nap>2023.09.29</nap>
+				<tol>12:30</tol>
+				<ig>15:50</ig>
+			</idopont>
+			<helyszin>In/101</helyszin>
+			<oktato>Kunné Dr. Tamás Judit</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="107" tipus="gyakorlat">
+    		<targy>Web technológiák 1.</targy>
+			<idopont>
+				<nap>2023.09.30</nap>
+				<tol>8:30</tol>
+				<ig>15:10</ig>
+			</idopont>
+			<helyszin>In/101</helyszin>
+			<oktato>Dr.Agárdi Anita</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="108" tipus="gyakorlat">
+    		<targy>Szoftvertesztelés</targy>
+			<idopont>
+				<nap>2023.10.06</nap>
+				<tol>12:30</tol>
+				<ig>15:50</ig>
+			</idopont>
+			<helyszin>In/101</helyszin>
+			<oktato>Tompa Tamás</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	
+	
+	<ora id="109" tipus="elmélet">
+    		<targy>Xml-adatkezelés</targy>
+			<idopont>
+				<nap>2023.10.13</nap>
+				<tol>12:30</tol>
+				<ig>15:50</ig>
+			</idopont>
+			<helyszin>In/101</helyszin>
+			<oktato>Dr. Bednarik László</oktato>
+			<szak>Mérnök info bsc.</szak>			
+	</ora>
+	
+	<ora id="110" tipus="elmélet">
+    		<targy>Integrált vállalati rendszerek</targy>
+			<idopont>
+				<nap>2023.10.13</nap>
+				<tol>16:00</tol>
+				<ig>19:20</ig>
+			</idopont>
+			<helyszin>In/15</helyszin>
+			<oktato>Dr. Samad Dadvandipour</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="111" tipus="gyakorlat">
+    		<targy>Szoftvertesztelés</targy>
+			<idopont>
+				<nap>2023.10.20</nap>
+				<tol>12:30</tol>
+				<ig>15:50</ig>
+			</idopont>
+			<helyszin>In/101</helyszin>
+			<oktato>Tompa Tamás</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="112" tipus="gyakorlat">
+    		<targy>Mesterséges inteligencia alapok</targy>
+			<idopont>
+				<nap>2023.10.20</nap>
+				<tol>16:00</tol>
+				<ig>19:20</ig>
+			</idopont>
+			<helyszin>In/15</helyszin>
+			<oktato>Fazekas Levente</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="113" tipus="gyakorlat">
+    		<targy>Integrált vállalati rendszerek</targy>
+			<idopont>
+				<nap>2023.10.27</nap>
+				<tol>12:30</tol>
+				<ig>15:50</ig>
+			</idopont>
+			<helyszin>In/15</helyszin>
+			<oktato>Kulcsárné Dr.Forrai Mónika</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="114" tipus="gyakorlat">
+    		<targy>Szoftvertesztelés</targy>
+			<idopont>
+				<nap>2023.10.27</nap>
+				<tol>16:00</tol>
+				<ig>19:20</ig>
+			</idopont>
+			<helyszin>In/101</helyszin>
+			<oktato>Tompa Tamás</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="115" tipus="elmélet">
+    		<targy>Xml-adatkezelés</targy>
+			<idopont>
+				<nap>2023.11.03</nap>
+				<tol>12:30</tol>
+				<ig>15:50</ig>
+			</idopont>
+			<helyszin>skype</helyszin>
+			<oktato>Dr. Bednarik László</oktato>
+			<szak>Mérnök info bsc.</szak>			
+	</ora>
+	
+	<ora id="116" tipus="gyakorlat">
+    		<targy>Mesterséges inteligencia alapok</targy>
+			<idopont>
+				<nap>2023.11.03</nap>
+				<tol>16:00</tol>
+				<ig>19:20</ig>
+			</idopont>
+			<helyszin>In/15</helyszin>
+			<oktato>Fazekas Levente</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="117" tipus="elmélet">
+    		<targy>Integrált vállalati rendszerek</targy>
+			<idopont>
+				<nap>2023.11.10</nap>
+				<tol>12:30</tol>
+				<ig>15:50</ig>
+			</idopont>
+			<helyszin>In/15</helyszin>
+			<oktato>Dr. Samad Dadvandipour</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="118" tipus="elmélet">
+    		<targy>Web-es alkalmazások (Java)</targy>
+			<idopont>
+				<nap>2023.11.17</nap>
+				<tol>12:30</tol>
+				<ig>15:50</ig>
+			</idopont>
+			<helyszin>In/101</helyszin>
+			<oktato>Kunné Dr. Tamás Judit</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	
+	<ora id="119" tipus="gyakorlat">
+    		<targy>Integrált vállalati rendszerek</targy>
+			<idopont>
+				<nap>2023.11.17</nap>
+				<tol>16:00</tol>
+				<ig>19:20</ig>
+			</idopont>
+			<helyszin>In/15</helyszin>
+			<oktato>Kulcsárné Dr.Forrai Mónika</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+	
+	<ora id="120" tipus="elmélet">
+    		<targy>Xml-adatkezelés</targy>
+			<idopont>
+				<nap>2023.11.24</nap>
+				<tol>12:30</tol>
+				<ig>15:50</ig>
+			</idopont>
+			<helyszin>skype</helyszin>
+			<oktato>Dr. Bednarik László</oktato>
+			<szak>Mérnök info bsc.</szak>			
+	</ora>
+
+	<ora id="121" tipus="elmélet">
+    		<targy>Web-es alkalmazások (Java)</targy>
+			<idopont>
+				<nap>2023.11.24</nap>
+				<tol>16:00</tol>
+				<ig>19:20</ig>
+			</idopont>
+			<helyszin>In/101</helyszin>
+			<oktato>Kunné Dr. Tamás Judit</oktato>
+			<szak>Mérnök info. (BSc)</szak>			
+	</ora>
+
+	<ora id="122" tipus="elmélet">
+    		<targy>Xml-adatkezelés</targy>
+			<idopont>
+				<nap>2023.12.08</nap>
+				<tol>12:30</tol>
+				<ig>15:50</ig>
+			</idopont>
+			<helyszin>skype</helyszin>
+			<oktato>Dr. Bednarik László</oktato>
+			<szak>Mérnök info bsc.</szak>			
+	</ora>
+	
+
+</orarend>

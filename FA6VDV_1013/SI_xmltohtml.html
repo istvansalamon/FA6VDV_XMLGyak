@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset='UTF-8'>
+			<title>XML To HTML</title>
+			<style>
+	tr:nth-child(odd) {
+	background: #33CCFF;
+	}
+
+	tr:nth-child(even) {
+	background: lightblue;
+	}
+			</style>
+			
+		</head>
+		<body>
+			<table border=1>
+				<thead>
+					<tr>
+						<th>targy</th>
+						<th>idopont</th>
+						<th>helyszin</th>
+						<th>oktato</th>
+						<th>szak</th>
+						<th>_id</th>
+						<th>_tipus</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Mesterséges inteligencia alapok</td>
+						<td>2023.09.15|12:30|15:50</td>
+						<td>In/114</td>
+						<td>Kunné Dr. Tamás Judit</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>101</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td>Mesterséges inteligencia alapok</td>
+						<td>2023.09.15|16:00|19:20</td>
+						<td>In/114</td>
+						<td>Kunné Dr. Tamás Judit</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>102</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td>Web technológiák 1.</td>
+						<td>2023.09.16|8:30|15:10</td>
+						<td>In/101</td>
+						<td>Dr.Agárdi Anita</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>103</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td>Szoftvertesztelés</td>
+						<td>2023.09.22|12:30|15:50</td>
+						<td>In/101</td>
+						<td>Tompa Tamás</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>104</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td>Web-es alkalmazások (Java)</td>
+						<td>2023.09.22|16:00|19:20</td>
+						<td>In/101</td>
+						<td>Kunné Dr. Tamás Judit</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>105</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td>Web-es alkalmazások (Java)</td>
+						<td>2023.09.29|12:30|15:50</td>
+						<td>In/101</td>
+						<td>Kunné Dr. Tamás Judit</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>106</td>
+						<td>gyakorlat</td>
+					</tr>
+					<tr>
+						<td>Web technológiák 1.</td>
+						<td>2023.09.30|8:30|15:10</td>
+						<td>In/101</td>
+						<td>Dr.Agárdi Anita</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>107</td>
+						<td>gyakorlat</td>
+					</tr>
+					<tr>
+						<td>Szoftvertesztelés</td>
+						<td>2023.10.06|12:30|15:50</td>
+						<td>In/101</td>
+						<td>Tompa Tamás</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>108</td>
+						<td>gyakorlat</td>
+					</tr>
+					<tr>
+						<td>Xml-adatkezelés</td>
+						<td>2023.10.13|12:30|15:50</td>
+						<td>In/101</td>
+						<td>Dr. Bednarik László</td>
+						<td>Mérnök info bsc.</td>
+						<td>109</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td>Integrált vállalati rendszerek</td>
+						<td>2023.10.13|16:00|19:20</td>
+						<td>In/15</td>
+						<td>Dr. Samad Dadvandipour</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>110</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td>Szoftvertesztelés</td>
+						<td>2023.10.20|12:30|15:50</td>
+						<td>In/101</td>
+						<td>Tompa Tamás</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>111</td>
+						<td>gyakorlat</td>
+					</tr>
+					<tr>
+						<td>Mesterséges inteligencia alapok</td>
+						<td>2023.10.20|16:00|19:20</td>
+						<td>In/15</td>
+						<td>Fazekas Levente</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>112</td>
+						<td>gyakorlat</td>
+					</tr>
+					<tr>
+						<td>Integrált vállalati rendszerek</td>
+						<td>2023.10.27|12:30|15:50</td>
+						<td>In/15</td>
+						<td>Kulcsárné Dr.Forrai Mónika</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>113</td>
+						<td>gyakorlat</td>
+					</tr>
+					<tr>
+						<td>Szoftvertesztelés</td>
+						<td>2023.10.27|16:00|19:20</td>
+						<td>In/101</td>
+						<td>Tompa Tamás</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>114</td>
+						<td>gyakorlat</td>
+					</tr>
+					<tr>
+						<td>Xml-adatkezelés</td>
+						<td>2023.11.03|12:30|15:50</td>
+						<td>skype</td>
+						<td>Dr. Bednarik László</td>
+						<td>Mérnök info bsc.</td>
+						<td>115</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td>Mesterséges inteligencia alapok</td>
+						<td>2023.11.03|16:00|19:20</td>
+						<td>In/15</td>
+						<td>Fazekas Levente</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>116</td>
+						<td>gyakorlat</td>
+					</tr>
+					<tr>
+						<td>Integrált vállalati rendszerek</td>
+						<td>2023.11.10|12:30|15:50</td>
+						<td>In/15</td>
+						<td>Dr. Samad Dadvandipour</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>117</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td>Web-es alkalmazások (Java)</td>
+						<td>2023.11.17|12:30|15:50</td>
+						<td>In/101</td>
+						<td>Kunné Dr. Tamás Judit</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>118</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td>Integrált vállalati rendszerek</td>
+						<td>2023.11.17|16:00|19:20</td>
+						<td>In/15</td>
+						<td>Kulcsárné Dr.Forrai Mónika</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>119</td>
+						<td>gyakorlat</td>
+					</tr>
+					<tr>
+						<td>Xml-adatkezelés</td>
+						<td>2023.11.24|12:30|15:50</td>
+						<td>skype</td>
+						<td>Dr. Bednarik László</td>
+						<td>Mérnök info bsc.</td>
+						<td>120</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td>Web-es alkalmazások (Java)</td>
+						<td>2023.11.24|16:00|19:20</td>
+						<td>In/101</td>
+						<td>Kunné Dr. Tamás Judit</td>
+						<td>Mérnök info. (BSc)</td>
+						<td>121</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td>Xml-adatkezelés</td>
+						<td>2023.12.08|12:30|15:50</td>
+						<td>skype</td>
+						<td>Dr. Bednarik László</td>
+						<td>Mérnök info bsc.</td>
+						<td>122</td>
+						<td>elmélet</td>
+					</tr>
+					<tr>
+						<td colspan="7" align="center">Készítette: Salamon István</td>
+						
+					</tr>
+				</tbody>
+			</table>
+		</body>
+	</html>
